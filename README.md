@@ -127,6 +127,10 @@ Each step is documented by original photographs and reflects experimental autono
 🔗 [Chlorophyll_shines_red_UV.jpg](TLC_analysis_protocol/Chlorophyll_shines_red_UV.JPG)  
 *Characteristic deep red fluorescence of chlorophyll under UV illumination. This emission confirms the presence of intact chlorophyll molecules and their excitation efficiency.*
 
+💡 The elution solvent used for pigment separation consisted of 6 parts petroleum ether, 4 parts acetone, and 1 part cyclohexane. This mixture provided optimal migration and resolution of major chlorophyll and carotenoid bands.
+
+💡 The developed TLC plates were scanned using a flatbed scanner. ImageJ was then used to generate a chromatogram by plotting signal intensity along the migration axis. The relative concentration of each pigment was estimated from the area under the curve (AUC), which follows a linear relationship with pigment quantity.
+
 ---
 
 ### 🔎 Spectroscopy and optical verification
