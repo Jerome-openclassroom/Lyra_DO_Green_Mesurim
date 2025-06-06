@@ -38,6 +38,8 @@ The following figure shows the Pearson correlations between the key variables: D
 
 ![Correlation scatter plots](pictures/regressions.png)
 
+🟥 Red line: Linear regression fit  
+**Equation**: SPAD = 0.178 × Mean − 36.454
 
 
 ## 📈 Results
