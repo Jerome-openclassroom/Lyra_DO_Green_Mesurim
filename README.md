@@ -100,46 +100,46 @@ Each step is documented by original photographs and reflects experimental autono
 
 ### ⚖️ Sample preparation and pigment extraction
 
-🔗 [Sample_weighing.jpg](TLC_analysis_protocol/Sample_weighing.jpg)  
+🔗 [Sample_weighing.jpg](TLC_analysis_protocol/Sample_weighing.JPG)  
 *Sample weighing on an analytical balance (±0.0001 g). Precision dry matter measurement for downstream chlorophyll quantification.*
 
-🔗 [Acetone_Eppendorf_leaf.jpg](TLC_analysis_protocol/Acetone_Eppendorf_leaf.jpg)  
+🔗 [Acetone_Eppendorf_leaf.jpg](TLC_analysis_protocol/Acetone_Eppendorf_leaf.JPG)  
 *Injection of cold acetone into an Eppendorf tube containing a leaf sample. First step of pigment extraction prior to homogenization.*
 
-🔗 [Potter_extraction_wooden_support.jpg](TLC_analysis_protocol/Potter_extraction_wooden_support.jpg)  
+🔗 [Potter_extraction_wooden_support.jpg](TLC_analysis_protocol/Potter_extraction_wooden_support.JPG)  
 *Custom-built wooden support to hold the tube during micro-homogenization with Potter-Elvehjem. Ensures verticality and safety during extraction.*
 
 ---
 
 ### 🌈 Pigment migration and UV fluorescence (TLC)
 
-🔗 [TLC_pigments_UV.jpg](TLC_analysis_protocol/TLC_pigments_UV.jpg)  
+🔗 [TLC_pigments_UV.jpg](TLC_analysis_protocol/TLC_pigments_UV.JPG)  
 *TLC plate photographed under UV light. Shows distinct chlorophyll and carotenoid spots post-migration.*
 
-🔗 [TLC_pigments_UV_2.jpg](TLC_analysis_protocol/TLC_pigments_UV_2.jpg)  
+🔗 [TLC_pigments_UV_2.jpg](TLC_analysis_protocol/TLC_pigments_UV_2.JPG)  
 *TLC plate under 254 nm inhibitory UV. Fluorescent pigment zones marked and analyzed for identification.*
 
-🔗 [TLC_pigments_UV_3.jpg](TLC_analysis_protocol/TLC_pigments_UV_3.jpg)  
+🔗 [TLC_pigments_UV_3.jpg](TLC_analysis_protocol/TLC_pigments_UV_3.JPG)  
 *Alternate view of pigment bands on the TLC plate under UV. Clear signal, confirming spot purity and separation quality.*
 
 ---
 
 ### 🔎 Spectroscopy and optical verification
 
-🔗 [Chlorophyll_homeMade_spectroscope.jpg](TLC_analysis_protocol/Chlorophyll_homeMade_spectroscope.jpg)  
+🔗 [Chlorophyll_homeMade_spectroscope.jpg](TLC_analysis_protocol/Chlorophyll_homeMade_spectroscope.JPG)  
 *Fluorescence of extracted chlorophyll observed through a homemade diffraction-based spectroscope.*
 
-🔗 [HomeMade_spectroscope.jpg](TLC_analysis_protocol/HomeMade_spectroscope.jpg)  
+🔗 [HomeMade_spectroscope.jpg](TLC_analysis_protocol/HomeMade_spectroscope.JPG)  
 *Full view of the custom-built spectroscope, using PVC tubing, adjustable slit, diffraction grating, and observation lens.*
 
 ---
 
 ### 🧪 Laboratory infrastructure
 
-🔗 [Lab_footage_1.jpg](TLC_analysis_protocol/Lab_footage_1.jpg)  
+🔗 [Lab_footage_1.jpg](TLC_analysis_protocol/Lab_footage_1.JPG)  
 *Chemical analysis zone: centrifuge, volumetric glassware, solvents, and glass bench setup.*
 
-🔗 [Lab_footage_2.jpg](TLC_analysis_protocol/Lab_footage_2.jpg)  
+🔗 [Lab_footage_2.jpg](TLC_analysis_protocol/Lab_footage_2.JPG)  
 *Informatics station: scanner, computer, and data processing zone integrated into the experimental workflow.*
 
 ---
