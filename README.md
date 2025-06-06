@@ -127,7 +127,7 @@ Each step is documented by original photographs and reflects experimental autono
 ### 🔎 Spectroscopy and optical verification
 
 🔗 [Chlorophyll_homeMade_spectroscope.jpg](TLC_analysis_protocol/Chlorophyll_homeMade_spectroscope.JPG)  
-*Fluorescence of extracted chlorophyll observed through a homemade diffraction-based spectroscope.*
+*Absorbance of extracted chlorophyll observed through a homemade diffraction-based spectroscope.*
 
 🔗 [HomeMade_spectroscope.jpg](TLC_analysis_protocol/HomeMade_spectroscope.JPG)  
 *Full view of the custom-built spectroscope, using PVC tubing, adjustable slit, diffraction grating, and observation lens.*
