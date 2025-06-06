@@ -67,7 +67,7 @@ This approach ensures safety, simplicity, and reproducibility in a citizen scien
 *************************
 
 🧪 Historical expertise: pigment extraction and chromatography
-Between 2008 and 2015, I developed and conducted a full protocol for identifying 7–9 photosynthetic and accessory pigments (chlorophyll a, b, carotenoids, xanthophylls, anthocyanins) using TLC (Thin Layer Chromatography) and solvent-based extraction (e.g. cyclohexane, petroleum ether).
+Between 2007 and 2008, I developed a full protocol for identifying and dosing 7–9 photosynthetic and accessory pigments (chlorophyll a, b, carotenoids, xanthophylls, anthocyanins) using TLC (Thin Layer Chromatography) and solvent-based extraction (acetone).
 
 The protocol required careful handling:
 
