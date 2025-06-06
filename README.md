@@ -64,6 +64,26 @@ Instead, this project relies on:
 
 This approach ensures safety, simplicity, and reproducibility in a citizen science or field context, aligned with the philosophy of Lyra_LowCost_Soil_Leaf.
 
+*************************
+
+🧪 Historical expertise: pigment extraction and chromatography
+Between 2008 and 2015, I developed and conducted a full protocol for identifying 7–9 photosynthetic and accessory pigments (chlorophyll a, b, carotenoids, xanthophylls, anthocyanins) using TLC (Thin Layer Chromatography) and solvent-based extraction (e.g. cyclohexane, petroleum ether).
+
+The protocol required careful handling:
+
+Extraction with Ultra-Turrax or Potter-Elvehjem in Eppendorf tubes (1 mL solvent),
+
+Ventilated environment or fume hood,
+
+Mandatory protective mask (solvents are volatile and flammable),
+
+Spectacular visual readouts, especially under UV light (chlorophyll fluorescence appears deep red).
+
+Although fully operational, this protocol is chemically sensitive, and not adapted to field-based or educational contexts.
+Today, I promote a low-tech, AI-assisted alternative: combining SPAD sensors, RGB scans, and image-based greenness indices as robust proxies for pigment quantification — safer, reproducible, and aligned with citizen science goals.
+
+*************************
+
 ## 🧠 Suggested Use
 - Education and training in plant physiology and agroecology,
 - Validation tool for leaf stress detection,
