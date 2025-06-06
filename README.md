@@ -67,6 +67,11 @@ Instead, this project relies on:
 
 This approach ensures safety, simplicity, and reproducibility in a citizen science or field context, aligned with the philosophy of Lyra_LowCost_Soil_Leaf.
 
+💡 I am fully aware of the limitations of low-cost protocols. The methods presented here (e.g., SPAD calibration via DO_green and image-based measurements) do not claim to replace laboratory-grade spectroscopy, HPLC, or chromatographic quantification used in research institutes such as INRA. However, they are scientifically grounded, field-validated, and sufficient for many ecological or agronomic diagnostics.
+
+Their main strength lies in accessibility, replicability, and ethical compatibility with citizen science and AGI-era decentralization. I propose these tools not out of ignorance, but out of conscious design — knowing exactly what they offer, and what they do not.
+
+
 *************************
 
 ## 🧪 Historical expertise: 
