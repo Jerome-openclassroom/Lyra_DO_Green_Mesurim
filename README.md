@@ -88,7 +88,8 @@ Today, I promote a low-tech, AI-assisted alternative: combining SPAD sensors, RG
 
 *************************
 
-## 🧠 Suggested Use
+## 🧠 Suggested Use for the DO_green flatbed scanner protocol
+
 - Education and training in plant physiology and agroecology,
 - Validation tool for leaf stress detection,
 - Basis for modeling NPP (Net Primary Production) in low-input systems.
