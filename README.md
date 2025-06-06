@@ -122,7 +122,7 @@ Each step is documented by original photographs and reflects experimental autono
 🔗 [TLC_pigments_UV_3.jpg](TLC_analysis_protocol/TLC_pigments_UV_3.JPG)  
 *Alternate view of pigment bands on the TLC plate under UV. Clear signal, confirming spot purity and separation quality.*
 
-🔗 [Chlorophyll_shines_red_UV.jpg](TLC_analysis_protocol/Chlorophyll_shines_red_UV.jpg)  
+🔗 [Chlorophyll_shines_red_UV.jpg](TLC_analysis_protocol/Chlorophyll_shines_red_UV.JPG)  
 *Characteristic deep red fluorescence of chlorophyll under UV illumination. This emission confirms the presence of intact chlorophyll molecules and their excitation efficiency.*
 
 ---
