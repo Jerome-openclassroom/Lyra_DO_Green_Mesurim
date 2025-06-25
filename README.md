@@ -169,6 +169,8 @@ Each step is documented by original photographs and reflects experimental autono
 
 ## 📁 Repository Structure
 
+```
+
 Lyra_DO_Green_Mesurim/
 ├── TLC_analysis_protocol/ # 🌿 Documentation of chlorophyll pigment extraction and TLC experiment
 │ ├── Acetone_Eppendorf_leaf.JPG # Acetone injected into Eppendorf tube for pigment extraction
@@ -198,6 +200,8 @@ Lyra_DO_Green_Mesurim/
 │ # - SPAD: measured SPAD average per leaf
 │
 └── README.md # 📄 This file – method description and structure
+
+```
 
 🔗 Related project:
 
