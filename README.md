@@ -187,7 +187,7 @@ Lyra_DO_Green_Mesurim/
 ├── pictures/ # 🍃 Leaf chlorosis study and digital extraction process
 │ ├── Planche_initiale_réduite.jpg # 15 ivy (Hedera helix) leaves with various degrees of chlorosis.
 │ # Each leaf is annotated with its SPAD value (proxy for chlorophyll content).
-│ # A 20 mm reference line is placed near each leaf for calibration.
+│ # A 20 mm reference line is placed near each leaf for calibration control (based on resolution in Mesurim).
 │ # The setup uses a string grid to facilitate later digital slicing.
 │ ├── miniwebtool.png # Screenshot of the slicing interface; lines follow the physical grid
 │ └── regressions.png # Scatter plot regression results (Mean = optical green density from scanner)
