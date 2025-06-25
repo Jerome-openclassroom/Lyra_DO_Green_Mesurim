@@ -167,17 +167,37 @@ Each step is documented by original photographs and reflects experimental autono
 - Validation tool for leaf stress detection,
 - Basis for modeling NPP (Net Primary Production) in low-input systems.
 
-📂 Files included
+## 📁 Repository Structure
 
-- Results_completed.xlsx : structured dataset with DO_green, SPAD, and chlorosis data,
-
-- pictures/planche_initiale_reduite.jpg : scanned reference image of the leaves,
-
-- pictures/regressions/ : correlation graphs generated during analysis,
-
-- pictures/miniwebtool/ : image cutouts prepared using the online tool MiniWebTool – Image Splitter for leaf-by-leaf analysis in MesurimPro,
-
-- README.md : this documentation file.
+Lyra_DO_Green_Mesurim/
+├── TLC_analysis_protocol/ # 🌿 Documentation of chlorophyll pigment extraction and TLC experiment
+│ ├── Acetone_Eppendorf_leaf.JPG # Acetone injected into Eppendorf tube for pigment extraction
+│ ├── Chlorophyll_homeMade_spectroscope.JPG # Raw chlorophyll spectrum observed with homemade spectroscope and magnifier lens
+│ ├── Chlorophyll_shines_red_UV.JPG # Chlorophyll fluorescence under UV light
+│ ├── HomeMade_spectroscope.JPG # General view of the homemade spectroscope
+│ ├── Lab_footage_1.JPG / Lab_footage_2.JPG # Photos of the home lab setup (from 2008)
+│ ├── Potter_extraction_wooden_support.JPG # Wooden support used for pigment extraction with a Potter grinder (centrifuge visible)
+│ ├── Sample_weighing.JPG # Sample weighing using a cage-type precision balance
+│ ├── TLC_pigments_UV.JPG # Pigments after TLC migration, under UV light
+│ ├── TLC_pigments_UV_2.JPG # Two TLC plates with UV fluorescence; concentrations marked (2–4–6–8)
+│ └── TLC_pigments_UV_3.JPG # Juxtaposed TLC strips (5) showing upward pigment migration from deposit line
+│
+├── pictures/ # 🍃 Leaf chlorosis study and digital extraction process
+│ ├── Planche_initiale_réduite.jpg # 15 ivy (Hedera helix) leaves with various degrees of chlorosis.
+│ # Each leaf is annotated with its SPAD value (proxy for chlorophyll content).
+│ # A 20 mm reference line is placed near each leaf for calibration.
+│ # The setup uses a string grid to facilitate later digital slicing.
+│ ├── miniwebtool.png # Screenshot of the slicing interface; lines follow the physical grid
+│ └── regressions.png # Scatter plot regression results (Mean = optical green density from scanner)
+│
+├── Results/ # 📊 Final computed data from image and SPAD analysis
+│ └── Results_completed.xls # Measurement table:
+│ # - Mean: Optical green density (scanner)
+│ # - S_chlorose: chlorosed surface (pixels)
+│ # - S_totale: total surface per leaf (pixels)
+│ # - SPAD: measured SPAD average per leaf
+│
+└── README.md # 📄 This file – method description and structure
 
 🔗 Related project:
 
