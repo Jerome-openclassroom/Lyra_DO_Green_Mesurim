@@ -197,8 +197,8 @@ Lyra_DO_Green_Mesurim/
 ├── Results/ # 📊 Final computed data from image and SPAD analysis
 │ └── Results_completed.xls # Measurement table:
 │ # - Mean: Optical green density (scanner)
-│ # - S_chlorose: chlorosed surface (pixels)
-│ # - S_totale: total surface per leaf (pixels)
+│ # - S_chlorose: chlorosed surface (square millimeters)
+│ # - S_totale: total surface per leaf (square millimeters)
 │ # - SPAD: measured SPAD average per leaf
 │
 └── README.md # 📄 This file – method description and structure
