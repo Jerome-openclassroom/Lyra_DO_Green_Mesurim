@@ -11,6 +11,8 @@ This project demonstrates the feasibility of predicting SPAD values (chlorophyll
 
 A scanned image of 15 leaves was analyzed (300 DPI).
 
+The dataset consists exclusively of leaves from Hedera helix (common ivy), collected for chlorophyll density analysis.
+
 Green density (DO_green) was computed via ImageJ.
 
 Surface areas (total and chlorotic) were measured with MesurimPro.
