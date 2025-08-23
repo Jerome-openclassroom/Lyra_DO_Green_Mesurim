@@ -202,6 +202,7 @@ Lyra_DO_Green_Mesurim/
 │ # - SPAD: measured SPAD average per leaf
 │
 └── README.md # 📄 This file – method description and structure
+└── README_fr.md # 📄 French version
 
 ```
 
