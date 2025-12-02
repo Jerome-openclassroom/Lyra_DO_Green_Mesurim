@@ -62,7 +62,7 @@ Ici, l’approche repose sur :
 
 ## 🧪 Expertise historique : Extraction de pigments et chromatographie (2007–2008)
 
-Entre 2007 et 2008, j’ai développé un protocole complet pour identifier et doser 7–9 pigments photosynthétiques et accessoires (chlorophylles a, b, caroténoïdes, xanthophylles, anthocyanes) via TLC et extraction par solvants (acétonne).  
+Entre 2007 et 2008, j’ai développé un protocole complet pour identifier et doser 7–9 pigments photosynthétiques et accessoires (chlorophylles a, b, caroténoïdes, xanthophylles, anthocyanes) via TLC et extraction par solvants (acétone).  
 
 Le protocole impliquait :  
 - Extraction avec Ultra-Turrax ou Potter-Elvehjem dans des tubes Eppendorf (1 mL solvant),  
